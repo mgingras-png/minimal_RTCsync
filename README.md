@@ -1,4 +1,4 @@
-# 1ST_GEN_REMIX
+# minimal_RTCsync
 
 Version 1.0
 
@@ -8,28 +8,26 @@ License: CC-BY-SA 3.0
 
 By: Monica G.
 
-Description: Theme based on the iPod classic 1st generation's UI with some added features.
-
-Icons & viewers based on Susan Kare's classic Macintosh icons.
-
+Description: Minimalist but modern theme. All pixel art is by me. The picture on the menu changes according to the time of day (changes at 6 AM, 12 PM, and 6 PM). 
 Code based on: BACKBONE and Pixel Computer by me! which are based on SNARTY by Simon Anden and BONES by Chuck Largo!
-
-Hold screen is stripped back from the WPS to make room for album art.
+Icons & viewers from my 1ST_GEN_REMIX theme with some small changes. Hold screen does not show album art.
+The San Francisco font is owned by Apple Inc. and this theme does not claim any ownership over the font.
 
 ## fonts
-- Nimbus
+- SemiboldItalic
+- SFProText-Regular
+- SFProText-SemiboldItalic
+- SFProText-Bold.fnt)
 
-## wps screenshot
-<img width="320" height="240" alt="wps" src="screenshots/WPS.png" />
+## wps screenshots
+<img width="320" height="240" alt="wps" src="screenshots/rtc_wps.png" />
 
-## menu screenshot
-<img width="320" height="240" alt="sbs" src="screenshots/SBS.png" />
+<img width="320" height="240" alt="wps" src="screenshots/rtc_wps1.png" />
+
+## menu screenshots
+<img width="320" height="240" alt="sbs" src="screenshots/rtc_sbs1.png" />
+
+<img width="320" height="240" alt="sbs" src="screenshots/rtc_sbs2.png" />
 
 ## usb screenshot
-<img width="320" height="240" alt="usb" src="screenshots/USB.png" />
-
-## hold screenshot
-<img width="320" height="240" alt="hold" src="screenshots/HOLD.png" />
-
-## quick menu screenshot
-<img width="320" height="240" alt="quickmenu" src="screenshots/QUICKMENU.png" />
+<img width="320" height="240" alt="usb" src="screenshots/rtc_usb.png" />
